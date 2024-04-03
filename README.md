@@ -1,27 +1,63 @@
-# LoginPage
+<h1>Login Page - Frontend</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+Este projeto é uma página de login desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) versão 17.3.2.. 
+A aplicação foi desenvolvida usando HTML, CSS e Angular.
 
-## Development server
+<h1 align="center">
+    <img src="public/login.png" width="300" height="150"/>
+    <img src="./public/signup.png" width="300" height="150"/>
+</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 💻 Requisitos
 
-## Code scaffolding
+Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Instalando
 
-## Build
+Primeiro, você deve clonar o projeto na sua máquina, para isso você
+pode colar o seguinte comando em seu terminal
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+git clone https://github.com/anacmenezes/login-page.git
+cd login-page
+```
 
-## Running unit tests
+Para executar o servidor de desenvolvimento:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```terminal
+ng server
+```
 
-## Running end-to-end tests
+Por fim, para executar o projeto basta rodar o seguinte:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```terminal
+npm start
+Navegue até `http://localhost:4200/
+```
 
-## Further help
+## 🔧 Compilação
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para compilar a aplicação para produção, execute o seguinte comando:
+
+```terminal
+ng build
+```
+Isso irá gerar uma versão otimizada da aplicação na pasta dist.
+
+## 🔍 Executanto testes
+
+```testes unitários
+Execute 'ng test' para executar os testes unitários via [Karma](https://karma-runner.github.io).
+```
+
+```testes End-To-End
+Execute 'ng e2e' para executar os testes end-to-end através de uma plataforma de sua escolha.
+Para usar este comando, você precisa primeiro adicionar um pacote que implemente as capacidades
+de teste end-to-end.
+```
+
+## 📱 Minhas Redes
+
+Instagram: [@1carulm](https://www.instagram.com/1carulm/) &nbsp;&middot;&nbsp;
+
+Linkedin [@AnaMenezes](https://www.linkedin.com/in/ana-menezes-882a8b257/) &nbsp;&middot;&nbsp;
